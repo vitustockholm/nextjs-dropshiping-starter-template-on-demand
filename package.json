@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "author": "Jamie Barton <jamie@notrab.dev> (https://notrab.dev)",
+  "author": "101",
   "dependencies": {
     "lodash.shuffle": "4.2.0",
     "next": "10.2.3",
