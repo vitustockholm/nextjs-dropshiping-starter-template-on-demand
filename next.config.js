@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["files.cdn.printful.com"],
+    domains: ["vitus.cdn.printful.com"],
   },
 };

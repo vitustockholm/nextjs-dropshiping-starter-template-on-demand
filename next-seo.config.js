@@ -1,7 +1,7 @@
 const description =
   "Fully automated store with Snipcart, Printful, and Next.js";
 const title = "Mystore";
-const url = "https://my.nextdropshippingstarter.com";
+const url = "https://my.nn.com";
 
 const seo = {
   title,
