@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ["vitus.cdn.printful.com"],
+    domains: ["nextjs-dropshiping-starter-template-on-demand.vercel.app"],
   },
 };
