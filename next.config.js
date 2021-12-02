@@ -1,5 +1,8 @@
+//cache image object
+
 module.exports = {
   images: {
-    domains: ["nextjs-dropshiping-starter-template-on-demand.vercel.app"],
+    disableStaticImages: true,
+    domains: ["https://cdn.snipcart.com"],
   },
 };

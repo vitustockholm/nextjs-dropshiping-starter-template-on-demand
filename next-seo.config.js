@@ -1,7 +1,8 @@
 const description =
   "Fully automated store with Snipcart, Printful, and Next.js";
 const title = "Mystore";
-const url = "https://my.nn.com";
+const url =
+  "https://nextjs-dropshiping-starter-template-on-demand-mmj9nwltp.vercel.app";
 
 const seo = {
   title,
@@ -15,7 +16,7 @@ const seo = {
   },
   twitter: {
     handle: "",
-    site: "",
+    site: "nextjs-dropshiping-starter-template-on-demand-mmj9nwltp.vercel.app",
   },
 };
 
