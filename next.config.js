@@ -3,7 +3,11 @@
 module.exports = {
   images: {
     domains: [
-      "https://app.snipcart.com/dashboard/products/6c2d9e94-3a85-48a7-89ac-e445f43849d0",
+      "assets.vercel.com",
+      "nextjs-dropshiping-starter-template-on-demand-vitustockholm.vercel.app",
+      "localhost:3000",
+      ,
+      "files.cdn.printful.com",
     ],
   },
 };
