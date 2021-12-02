@@ -2,7 +2,6 @@
 
 module.exports = {
   images: {
-    disableStaticImages: true,
-    domains: ["https://cdn.snipcart.com"],
+    domains: ["files.cdn.printful.com"],
   },
 };
