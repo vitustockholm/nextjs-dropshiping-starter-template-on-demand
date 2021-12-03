@@ -16,7 +16,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ products }) => (
   <>
     <div className="text-center pb-6 md:pb-12">
       <h1 className="text-xl md:text-3xl lg:text-5xl font-bold">
-        All Products
+        All Production
       </h1>
     </div>
 
